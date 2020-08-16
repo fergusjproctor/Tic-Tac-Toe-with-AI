@@ -1,0 +1,25 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    def calculate_linear(k, b, x):
+        y = k * x + b
+        print("Value of the function equals", y)
+        return y
+
+
+    def calculate_quadratic(a, b, c, x):
+        y = (a * x * x) + (b * x) + c
+        print("Value of the function equals", y)
+        return y
+
+
+    # create function common_part
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9578
+status: Solved
+feedback:
+  message: Failed to get check result from JetBrains Academy
+  time: Mon, 10 Aug 2020 09:08:59 UTC
+record: -1

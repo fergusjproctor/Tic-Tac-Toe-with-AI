@@ -1,0 +1,15 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    def print_book_info(title, author=None, year=None):
+        #  Write your code here
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8085
+status: Solved
+feedback:
+  message: Failed to get check result from JetBrains Academy
+  time: Mon, 10 Aug 2020 09:10:24 UTC
+record: -1
